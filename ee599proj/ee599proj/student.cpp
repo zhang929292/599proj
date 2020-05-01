@@ -25,7 +25,7 @@ Student::Student(int id, string name, string pwd)
 //submenu
 void Student::operMenu()
 {
-    cout << "welcome" << this->m_Name << "Log in!" << endl;
+    cout << "welcome" << this->m_Name << " has successfully logged in!" << endl;
     cout << "\t\t ----------------------------------\n";
     cout << "\t\t|                                  |\n";
     cout << "\t\t|          1.Apply reservation     |\n";
