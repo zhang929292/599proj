@@ -72,7 +72,7 @@ Screenshots of the demo：
 
 
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/student.png" width="400" text-align="center">
-<img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/teacher.png" width="500" text-align="center">
+<img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/teacher.png" width="400" text-align="center">
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/manager.png" width="400" text-align="center">
 
 
