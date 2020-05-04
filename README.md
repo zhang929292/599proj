@@ -70,11 +70,13 @@ https://www.youtube.com/watch?v=xHUA8okXR1c
 
 Screenshots of the demo：
 
-Log in as a student:
+
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/student.png" width="400" text-align="center">
-Log in as a teacher:
+
+
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/teacher.png" width="400" text-align="center">
-Log in as a manager:
+
+
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/manager.png" width="400" text-align="center">
 
 
