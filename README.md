@@ -71,11 +71,11 @@ https://www.youtube.com/watch?v=xHUA8okXR1c
 Screenshots of the demo：
 
 
-<img alt="Diagram" src="https://github.com/zhang929292/599proj/master/student.png?raw=true" width="400" text-align="center">
+<img alt="Diagram" src="https://github.com/zhang929292/599proj/master/student.png" width="400" text-align="center">
 
-<img alt="Diagram" src="https://github.com/zhang929292/599proj/master/teacher.png?raw=true" width="400" text-align="center">
+<img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/teacher.png" width="400" text-align="center">
 
-<img alt="Diagram" src="https://github.com/zhang929292/599proj/master/manager.png?raw=true" width="400" text-align="center">
+<img alt="Diagram" src="https://github.com/zhang929292/599proj/master/manager.png" width="400" text-align="center">
 
 
 
