@@ -71,13 +71,12 @@ https://www.youtube.com/watch?v=xHUA8okXR1c
 Screenshots of the demo：
 
 
-<img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/student.png" width="400" text-align="center">
+<img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/student.png" width="500" text-align="center">
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/teacher.png" width="400" text-align="center">
 <img alt="Diagram" src="https://github.com/zhang929292/599proj/blob/master/manager.png" width="400" text-align="center">
-
 
 
 Future work:
 
 Change colors and fonts to improve the login interface for better readability.
-
+Encapsulate the file into an applocation.
