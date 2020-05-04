@@ -80,3 +80,6 @@ Screenshots of the demo：
 
 
 Future work:
+
+Change colors and fonts to improve the login interface for better readability.
+
